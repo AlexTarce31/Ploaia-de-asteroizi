@@ -1,0 +1,44 @@
+C:\Users\ALEX\Desktop\Game1\bin\Debug\Game1.exe.config
+C:\Users\ALEX\Desktop\Game1\bin\Debug\Game1.exe
+C:\Users\ALEX\Desktop\Game1\bin\Debug\Game1.pdb
+C:\Users\ALEX\Desktop\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\ALEX\Desktop\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\ALEX\Desktop\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\ALEX\Desktop\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\ALEX\Desktop\Game1\obj\Debug\Game1.exe
+C:\Users\ALEX\Desktop\Game1\obj\Debug\Game1.pdb
+C:\Users\ALEX\Desktop\Game1\obj\Debug\Game1.Form2.resources
+C:\Users\ALEX\Desktop\Game1\obj\Debug\Game1.Form3.resources
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Interop.WMPLib.dll
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.csproj.ResolveComReference.cache
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.Menu.resources
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.Help.resources
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.Game.resources
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.exe
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.pdb
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\Game1.exe.config
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\Game1.exe
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\Game1.pdb
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\Interop.WMPLib.dll
+C:\Users\ALEX\Desktop\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\Game1.exe.config
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\Game1.exe
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\Game1.pdb
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\Interop.WMPLib.dll
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Interop.WMPLib.dll
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.csproj.ResolveComReference.cache
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.Menu.resources
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.Help.resources
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.Game.resources
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.exe
+C:\Users\ALEX\Desktop\Facultate Informatica\Informatica-liceu\Atestate\Atestat info\Ploaia de asteroizi\obj\Debug\Game1.pdb
